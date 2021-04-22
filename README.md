@@ -1,9 +1,4 @@
 # Coursera-GettingandCleaningDataWeek4-Peerreview
----
-title: "ReadMe.Md"
-output: github_document
-author: "Renaud Eynard"
----
 
 ## Course Project Overview
 Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Week 4 Class Project
